@@ -1,0 +1,19 @@
+h2.intro{
+    color: brown;
+}
+p.intro{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: blueviolet;
+}
+p.one{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    color: darkgray;
+
+}
+img.intro{
+    width: 500px;
+    height: 450x;
+
+}
